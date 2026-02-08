@@ -1,0 +1,10 @@
+{
+  "Prompts": {
+    "default": {
+      "Intro": "I\u0027m building a drift setup for {carName} in CarX Drift Racing.",
+      "Request": "Please analyze this tune and provide:\n1. A detailed breakdown of the suspension and alignment settings\n2. Suggestions for improvement based on {driftStyle} drift style\n3. Explanation of how each setting affects drift performance\n4. A high-quality image of the {carName}",
+      "TuneFormat": "full"
+    }
+  },
+  "CarSpecificNotes": {}
+}
